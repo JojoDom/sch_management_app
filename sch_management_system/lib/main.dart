@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'School Management System',
+      title: 'School Management S',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch:  Colors.deepPurple,
       ),
       home: DashBoard()
     );

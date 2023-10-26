@@ -13,7 +13,7 @@ class _DashBoardState extends State<DashBoard> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      
+      appBar: AppBar(),
     );
   }
 }
